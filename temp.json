@@ -1,0 +1,530 @@
+{
+  "searchResult": {
+    "searchID": "43a552f97d4a4126a083232ca99bfcd2",
+    "totalCount": 677,
+    "searchMerchants": [
+      {
+        "id": "2-C2VGA6AZCRKZHE",
+        "address": { "name": "The Green Bounty Kitchen - SM Davao" },
+        "latlng": {
+          "latitude": 7.050677409187372,
+          "longitude": 125.58909218650638
+        },
+        "estimatedDeliveryTime": 27,
+        "merchantBrief": {
+          "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+          "cuisine": ["Filipino", "Vegetarian \u0026 Vegan", "Casual Dining"],
+          "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2VGA6AZCRKZHE/hero/15d8781944ef4e3cb2c4d2838f2ad6ba_1624691862064517663.jpeg",
+          "isIntegrated": true,
+          "openHours": {
+            "open": true,
+            "displayedHours": "10:30-19:00",
+            "sun": "10:30-19:00",
+            "mon": "10:30-19:00",
+            "tue": "10:30-19:00",
+            "wed": "10:30-19:00",
+            "thu": "10:30-19:00",
+            "fri": "10:30-19:00",
+            "sat": "10:30-19:00"
+          },
+          "distanceInKm": 2.926,
+          "rating": 4.6,
+          "vote_count": 51,
+          "deliverBy": "GRAB",
+          "displayInfo": {
+            "primaryText": "The Green Bounty Kitchen - SM Davao"
+          },
+          "deliverOptions": "DELIVERY_TAKEAWAY"
+        },
+        "chainID": "TheGreenBountyKitchen",
+        "chainName": "The Green Bounty Kitchen",
+        "metadata": {
+          "origin": ["NonKeyword::", "Search"],
+          "discovery": {
+            "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+            "service": "foodsearch",
+            "method": "nonKeywordSearch",
+            "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+            "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "searchFeatures": "flagMergeQueryResults=0",
+            "customDimensions": "business_type=0,is_keyword=false",
+            "defaultRankGroupID": "default_food_homepage_0",
+            "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+            "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "recallSource": "text"
+          }
+        },
+        "businessType": "FOOD"
+      },
+      {
+        "id": "2-CY3UV3TVCREKSA",
+        "address": { "name": "Spark Coffee + Crafts - Marfori Heights" },
+        "latlng": { "latitude": 7.0814516, "longitude": 125.6021841 },
+        "estimatedDeliveryTime": 32,
+        "merchantBrief": {
+          "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+          "cuisine": ["American", "Pasta", "Quick Bites"],
+          "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-CY3UV3TVCREKSA/hero/9a5634df34d14e92a0028a6a14b96c2f_1573200621973232397.jpeg",
+          "isIntegrated": true,
+          "openHours": {
+            "open": true,
+            "displayedHours": "08:30-19:15",
+            "sun": "11:00-19:15",
+            "mon": "08:30-19:15",
+            "tue": "08:30-19:15",
+            "wed": "08:30-19:15",
+            "thu": "08:30-19:15",
+            "fri": "11:00-19:15",
+            "sat": "11:00-19:15"
+          },
+          "distanceInKm": 3.893,
+          "rating": 4.8,
+          "vote_count": 105,
+          "deliverBy": "GRAB",
+          "displayInfo": {
+            "primaryText": "Spark Coffee + Crafts - Marfori Heights"
+          },
+          "deliverOptions": "DELIVERY_TAKEAWAY"
+        },
+        "chainID": "SparkCoffeeCrafts",
+        "chainName": "Spark Coffee + Crafts",
+        "metadata": {
+          "origin": ["NonKeyword::", "Search"],
+          "discovery": {
+            "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+            "service": "foodsearch",
+            "method": "nonKeywordSearch",
+            "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+            "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "searchFeatures": "flagMergeQueryResults=0",
+            "customDimensions": "business_type=0,is_keyword=false",
+            "defaultRankGroupID": "default_food_homepage_0",
+            "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+            "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "recallSource": "text"
+          }
+        },
+        "businessType": "FOOD"
+      },
+      {
+        "id": "2-C2VHNATTV3ACEN",
+        "address": { "name": "Cafe Demitasse - Torres Street" },
+        "latlng": {
+          "latitude": 7.0776203533740585,
+          "longitude": 125.60533999999643
+        },
+        "estimatedDeliveryTime": 36,
+        "merchantBrief": {
+          "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+          "cuisine": ["Asian", "Breakfast \u0026 Brunch", "Casual Dining"],
+          "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2VHNATTV3ACEN/hero/23704918f1dd4ef3a3ddb48e4f308243_1624763029301311582.png",
+          "isIntegrated": true,
+          "openHours": {
+            "open": true,
+            "displayedHours": "09:00-20:40",
+            "sun": "Closed",
+            "mon": "09:00-20:40",
+            "tue": "09:00-20:40",
+            "wed": "09:00-20:40",
+            "thu": "09:00-20:40",
+            "fri": "09:00-20:40",
+            "sat": "09:00-20:40"
+          },
+          "distanceInKm": 3.4,
+          "rating": 4.4,
+          "vote_count": 79,
+          "promo": {
+            "hasPromo": true,
+            "description": "Free delivery with promo code GFSIGNATURES"
+          },
+          "deliverBy": "GRAB",
+          "displayInfo": { "primaryText": "Cafe Demitasse - Torres Street" },
+          "deliverOptions": "DELIVERY_TAKEAWAY"
+        },
+        "chainID": "CafeDemitasse",
+        "chainName": "Cafe Demitasse",
+        "metadata": {
+          "origin": ["NonKeyword::", "Search"],
+          "discovery": {
+            "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+            "service": "foodsearch",
+            "method": "nonKeywordSearch",
+            "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+            "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "searchFeatures": "flagMergeQueryResults=0",
+            "customDimensions": "business_type=0,is_keyword=false",
+            "defaultRankGroupID": "default_food_homepage_0",
+            "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+            "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "recallSource": "text"
+          }
+        },
+        "businessType": "FOOD"
+      },
+      {
+        "id": "2-C2C1TAKWLKMEA6",
+        "address": { "name": "Lara Mia Cafe \u0026 Bistro - Matina" },
+        "latlng": { "latitude": 7.0559459, "longitude": 125.59408 },
+        "estimatedDeliveryTime": 30,
+        "merchantBrief": {
+          "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+          "cuisine": ["Italian", "Pizza", "Casual Dining"],
+          "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2C1TAKWLKMEA6/hero/0c3073bbd54e4206921b945646e69c73_1605781608840406320.jpeg",
+          "isIntegrated": true,
+          "openHours": {
+            "open": true,
+            "displayedHours": "10:15-19:15",
+            "sun": "10:30-19:15",
+            "mon": "10:15-19:15",
+            "tue": "10:15-19:15",
+            "wed": "10:15-19:15",
+            "thu": "10:15-19:15",
+            "fri": "10:15-19:15",
+            "sat": "10:30-19:15"
+          },
+          "distanceInKm": 1.568,
+          "rating": 4.7,
+          "vote_count": 93,
+          "promo": {
+            "hasPromo": true,
+            "description": "Free delivery with promo code GFSIGNATURES"
+          },
+          "deliverBy": "GRAB",
+          "displayInfo": {
+            "primaryText": "Lara Mia Cafe \u0026 Bistro - Matina"
+          },
+          "deliverOptions": "DELIVERY_TAKEAWAY"
+        },
+        "chainID": "LaraMiaCafeBistro",
+        "chainName": "Lara Mia Cafe \u0026 Bistro",
+        "metadata": {
+          "origin": ["NonKeyword::", "Search"],
+          "discovery": {
+            "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+            "service": "foodsearch",
+            "method": "nonKeywordSearch",
+            "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+            "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "searchFeatures": "flagMergeQueryResults=0",
+            "customDimensions": "business_type=0,is_keyword=false",
+            "defaultRankGroupID": "default_food_homepage_0",
+            "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+            "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "recallSource": "text"
+          }
+        },
+        "businessType": "FOOD"
+      },
+      {
+        "id": "2-C2WGTAXJMFTULT",
+        "address": { "name": "Wild Garlic - DBP Village" },
+        "latlng": { "latitude": 7.0637687, "longitude": 125.5922052 },
+        "estimatedDeliveryTime": 22,
+        "merchantBrief": {
+          "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+          "cuisine": ["Asian", "Chicken", "Casual Dining"],
+          "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2WGTAXJMFTULT/hero/4901e0288ae84b63a97ad5d57acfaf9d_1626681316812811259.png",
+          "isIntegrated": true,
+          "openHours": {
+            "open": true,
+            "displayedHours": "11:00-20:00",
+            "sun": "Closed",
+            "mon": "11:00-20:00",
+            "tue": "11:00-20:00",
+            "wed": "11:00-20:00",
+            "thu": "11:00-20:00",
+            "fri": "11:00-20:00",
+            "sat": "11:00-20:00"
+          },
+          "distanceInKm": 0.14760169622301325,
+          "rating": 3.5,
+          "vote_count": 13,
+          "deliverBy": "GRAB",
+          "displayInfo": { "primaryText": "Wild Garlic - DBP Village" },
+          "deliverOptions": "DELIVERY_TAKEAWAY"
+        },
+        "chainID": "WildGarlic",
+        "chainName": "Wild Garlic",
+        "metadata": {
+          "origin": ["NonKeyword::", "Search"],
+          "discovery": {
+            "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+            "service": "foodsearch",
+            "method": "nonKeywordSearch",
+            "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+            "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "searchFeatures": "flagMergeQueryResults=0",
+            "customDimensions": "business_type=0,is_keyword=false",
+            "defaultRankGroupID": "default_food_homepage_0",
+            "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+            "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "recallSource": "text"
+          }
+        },
+        "businessType": "FOOD"
+      },
+      {
+        "id": "2-C2WGMETVLEVFTT",
+        "address": { "name": "BC Chicken House - Ecoland" },
+        "latlng": { "latitude": 7.0530979, "longitude": 125.5949304 },
+        "estimatedDeliveryTime": 33,
+        "merchantBrief": {
+          "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+          "cuisine": ["Asian", "Chicken", "Casual Dining"],
+          "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2WGMETVLEVFTT/hero/cac544906d164934ae580ee660248774_1626659687718478091.jpeg",
+          "isIntegrated": true,
+          "openHours": {
+            "open": true,
+            "displayedHours": "10:00-21:00",
+            "sun": "10:00-21:00",
+            "mon": "10:00-21:00",
+            "tue": "10:00-21:00",
+            "wed": "10:00-21:00",
+            "thu": "10:00-21:00",
+            "fri": "10:00-21:00",
+            "sat": "10:00-21:00"
+          },
+          "distanceInKm": 1.936,
+          "rating": 5,
+          "vote_count": 12,
+          "deliverBy": "GRAB",
+          "operationHours": "{\"open\":null,\"close\":[]}",
+          "displayInfo": { "primaryText": "BC Chicken House - Ecoland" },
+          "deliverOptions": "DELIVERY_TAKEAWAY"
+        },
+        "chainID": "BCChickenHouse",
+        "chainName": "BC Chicken House",
+        "metadata": {
+          "origin": ["NonKeyword::", "Search"],
+          "discovery": {
+            "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+            "service": "foodsearch",
+            "method": "nonKeywordSearch",
+            "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+            "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "searchFeatures": "flagMergeQueryResults=0",
+            "customDimensions": "business_type=0,is_keyword=false",
+            "defaultRankGroupID": "default_food_homepage_0",
+            "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+            "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "recallSource": "text"
+          }
+        },
+        "businessType": "FOOD"
+      },
+      {
+        "id": "2-C2N1LPBZVBEXVN",
+        "address": { "name": "Fiamma Pizza - Napoletana" },
+        "latlng": {
+          "latitude": 7.0602330249074505,
+          "longitude": 125.59230908487694
+        },
+        "estimatedDeliveryTime": 25,
+        "merchantBrief": {
+          "description": "Prices are all VaT inclusive. Prices may also vary or be subject to change by the merchant.",
+          "cuisine": ["Asian", "Pizza", "Casual Dining"],
+          "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2N1LPBZVBEXVN/hero/278c4836298a459d80a572c8d930e2d4_1619853558406656662.jpeg",
+          "isIntegrated": true,
+          "openHours": {
+            "open": true,
+            "displayedHours": "15:00-20:00",
+            "sun": "15:00-20:00",
+            "mon": "15:00-20:00",
+            "tue": "15:00-20:00",
+            "wed": "15:00-20:00",
+            "thu": "15:00-20:00",
+            "fri": "15:00-20:00",
+            "sat": "15:00-20:00"
+          },
+          "distanceInKm": 0.846,
+          "rating": 4.8,
+          "vote_count": 23,
+          "deliverBy": "GRAB",
+          "displayInfo": { "primaryText": "Fiamma Pizza - Napoletana" },
+          "deliverOptions": "DELIVERY_TAKEAWAY"
+        },
+        "chainID": "FiammaPizza",
+        "chainName": "Fiamma Pizza",
+        "metadata": {
+          "origin": ["NonKeyword::", "Search"],
+          "discovery": {
+            "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+            "service": "foodsearch",
+            "method": "nonKeywordSearch",
+            "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+            "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "searchFeatures": "flagMergeQueryResults=0",
+            "customDimensions": "business_type=0,is_keyword=false",
+            "defaultRankGroupID": "default_food_homepage_0",
+            "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+            "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "recallSource": "text"
+          }
+        },
+        "businessType": "FOOD"
+      },
+      {
+        "id": "2-C2X3LZJZCJ4HFE",
+        "address": { "name": "Jaltan Food Centrum - Magallanes" },
+        "latlng": { "latitude": 7.0642115, "longitude": 125.607331 },
+        "estimatedDeliveryTime": 26,
+        "merchantBrief": {
+          "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+          "cuisine": ["Asian", "Dessert", "Quick Bites"],
+          "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2X3LZJZCJ4HFE/hero/6c45182e06424266ba4ac19f9d85bb8d_1630065442881783834.jpeg",
+          "isIntegrated": true,
+          "openHours": {
+            "open": true,
+            "displayedHours": "08:00-16:45",
+            "sun": "Closed",
+            "mon": "08:00-16:45",
+            "tue": "08:00-16:45",
+            "wed": "08:00-16:45",
+            "thu": "08:00-16:45",
+            "fri": "08:00-16:45",
+            "sat": "08:00-16:45"
+          },
+          "distanceInKm": 3.272,
+          "rating": 5,
+          "vote_count": 1,
+          "promo": {
+            "hasPromo": true,
+            "description": "FREE DELIVERY: Promo code GFNEWEATS"
+          },
+          "deliverBy": "GRAB",
+          "displayInfo": { "primaryText": "Jaltan Food Centrum - Magallanes" },
+          "deliverOptions": "DELIVERY_TAKEAWAY"
+        },
+        "chainID": "JaltanFoodCentrum",
+        "chainName": "Jaltan Food Centrum",
+        "branchMerchants": [
+          {
+            "id": "2-C2X3LZJZCJ4HFE",
+            "address": { "name": "Jaltan Food Centrum - Magallanes" },
+            "latlng": { "latitude": 7.0642115, "longitude": 125.607331 },
+            "estimatedDeliveryTime": 26,
+            "merchantBrief": {
+              "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+              "cuisine": ["Asian", "Dessert", "Quick Bites"],
+              "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2X3LZJZCJ4HFE/hero/6c45182e06424266ba4ac19f9d85bb8d_1630065442881783834.jpeg",
+              "isIntegrated": true,
+              "openHours": {
+                "open": true,
+                "displayedHours": "08:00-16:45",
+                "sun": "Closed",
+                "mon": "08:00-16:45",
+                "tue": "08:00-16:45",
+                "wed": "08:00-16:45",
+                "thu": "08:00-16:45",
+                "fri": "08:00-16:45",
+                "sat": "08:00-16:45"
+              },
+              "distanceInKm": 3.272,
+              "rating": 5,
+              "vote_count": 1,
+              "promo": {
+                "hasPromo": true,
+                "description": "FREE DELIVERY: Promo code GFNEWEATS"
+              },
+              "deliverBy": "GRAB",
+              "displayInfo": {
+                "primaryText": "Jaltan Food Centrum - Magallanes"
+              },
+              "deliverOptions": "DELIVERY_TAKEAWAY"
+            },
+            "chainID": "JaltanFoodCentrum",
+            "chainName": "Jaltan Food Centrum",
+            "branchName": "Magallanes",
+            "metadata": {
+              "origin": ["NonKeyword::", "Search"],
+              "discovery": {
+                "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+                "service": "foodsearch",
+                "method": "nonKeywordSearch",
+                "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+                "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+                "searchFeatures": "flagMergeQueryResults=0",
+                "customDimensions": "business_type=0,is_keyword=false",
+                "defaultRankGroupID": "default_food_homepage_0",
+                "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+                "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+                "recallSource": "text"
+              }
+            },
+            "businessType": "FOOD"
+          },
+          {
+            "id": "2-C2X3LZEHE7MZJJ",
+            "address": { "name": "Jaltan Food Centrum - CM Recto" },
+            "latlng": { "latitude": 7.067525, "longitude": 125.610584 },
+            "estimatedDeliveryTime": 24,
+            "merchantBrief": {
+              "description": "Prices are all VAT inclusive. Prices may also vary or be subject to change by the merchant.",
+              "cuisine": ["Asian", "Dessert", "Quick Bites"],
+              "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/2-C2X3LZEHE7MZJJ/hero/152c7046741e407c93566284bd7f10e7_1630065195302186079.jpeg",
+              "isIntegrated": true,
+              "openHours": {
+                "open": true,
+                "displayedHours": "08:00-17:00",
+                "sun": "08:00-17:00",
+                "mon": "08:00-17:00",
+                "tue": "08:00-17:00",
+                "wed": "08:00-17:00",
+                "thu": "08:00-17:00",
+                "fri": "08:00-17:00",
+                "sat": "08:00-17:00"
+              },
+              "distanceInKm": 2.932,
+              "deliverBy": "GRAB",
+              "displayInfo": {
+                "primaryText": "Jaltan Food Centrum - CM Recto"
+              },
+              "deliverOptions": "DELIVERY_TAKEAWAY"
+            },
+            "chainID": "JaltanFoodCentrum",
+            "chainName": "Jaltan Food Centrum",
+            "branchName": "CM Recto",
+            "metadata": {
+              "origin": ["NonKeyword::", "Search"],
+              "discovery": {
+                "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+                "service": "foodsearch",
+                "method": "nonKeywordSearch",
+                "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+                "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+                "searchFeatures": "flagMergeQueryResults=0",
+                "customDimensions": "business_type=0,is_keyword=false",
+                "defaultRankGroupID": "default_food_homepage_0",
+                "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+                "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+                "recallSource": "text"
+              }
+            },
+            "businessType": "FOOD"
+          }
+        ],
+        "metadata": {
+          "origin": ["NonKeyword::", "Search"],
+          "discovery": {
+            "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+            "service": "foodsearch",
+            "method": "nonKeywordSearch",
+            "discoverID": "43a552f97d4a4126a083232ca99bfcd2",
+            "rerankMethod": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "searchFeatures": "flagMergeQueryResults=0",
+            "customDimensions": "business_type=0,is_keyword=false",
+            "defaultRankGroupID": "default_food_homepage_0",
+            "defaultRankFormula": "0.2 * [eta_score] + 0.062 * [popularity_score] + 0.246 * [promo_score] + 0.246 * [partner_score] + 0.062 * [recency_score] + 0.185 * [is_integrated] + 0.004",
+            "postRerankGroupID": "NonKeywordRankMerchant:nonkeyword_mog_1:default",
+            "recallSource": "text"
+          }
+        },
+        "businessType": "FOOD"
+      }
+    ],
+    "requestID": "fae54fd2-3746-4cf5-9ebb-49facf505260",
+    "offset": 48,
+    "hasMore": true,
+    "dataTrackingInfo": { "tags": "" }
+  }
+}
