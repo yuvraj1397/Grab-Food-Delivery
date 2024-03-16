@@ -1,12 +1,11 @@
-# Anakin Assignment
-
-Total Time Spent: 1.8 hours
+#Grab-Food-Delivery
 Scrapped data stats:
 
 ```
 {
-   "location": 'Ground Floor, Building San Lazaro Compund, C. S. Gatmaitan Ave, Santa Cruz, Manila, 1003 Metro Manila, Philippines',
-   "total_listing": 1384
+   1-PT Singapore - Choa Chu Kang North 6, Singapore, 689577
+   2-Chong Boon Dental Surgery - Block 456 Ang Mo Kio Avenue 10, #01-1574, Singapore, 560456
+
 }
 ```
 
@@ -17,7 +16,7 @@ Approach:
 
 1. Open url and enter a predefined location:
    ```
-   Marawi City Police Station - West, Matina Crossing, Davao City, Davao del Sur, Davao City, Davao Region (Region XI), 8000, Philippines
+   PT Singapore - Choa Chu Kang North 6, Singapore, 689577
    ```
    mimicking the input and clicking of **search** button.
 2. Wait `5` before pressing **load more**.
@@ -31,6 +30,3 @@ Approach:
 
 https://user-images.githubusercontent.com/23381512/138827215-90683244-9158-4111-9329-ae47742980fa.mp4
 
-### Example Failure in-between
-
-https://user-images.githubusercontent.com/23381512/138820476-9a828164-d692-4c44-972b-c7f12da97f47.mp4
